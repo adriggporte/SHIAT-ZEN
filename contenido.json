@@ -1,0 +1,99 @@
+{
+  "negocio": {
+    "nombre": "SHIAT-ZEN",
+    "subtitulo": "Masaje Terapéutico Japonés · Aldaia",
+    "descripcion_corta": "Especialistas en shiatsu y terapia manual japonesa en Aldaia. Donde el cuerpo encuentra su equilibrio y la mente su silencio."
+  },
+  "hero": {
+    "imagen": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=1600&q=80",
+    "titular": "Recupera tu bienestar<br>con el poder del <em>masaje japonés</em>",
+    "subtitular": "Terapias manuales especializadas en Aldaia para liberar tensiones, aliviar el dolor y reconectar con tu cuerpo.",
+    "cta_texto": "Reserva tu sesión"
+  },
+  "sobre": {
+    "imagen": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80",
+    "imagen_alt": "Sesión de masaje terapéutico en Centro SHIAT-ZEN",
+    "parrafos": [
+      "En SHIAT-ZEN creemos que el bienestar no es un lujo, es una necesidad. Somos un centro especializado en terapia manual japonesa donde cada sesión se diseña a medida, escuchando tu cuerpo y atendiendo lo que realmente necesitas.",
+      "Nuestro enfoque combina técnicas ancestrales del shiatsu con un conocimiento profundo del sistema muscular y energético, para ofrecerte resultados que van más allá del alivio momentáneo.",
+      "Trabajamos con las manos, con intención y con presencia. Porque en un mundo acelerado, a veces lo más terapéutico es simplemente parar, respirar y dejarse cuidar.",
+      "Te esperamos en Aldaia con el tiempo y la dedicación que mereces."
+    ]
+  },
+  "servicios": [
+    {
+      "nombre": "Shiatsu Tradicional",
+      "descripcion": "Masaje japonés basado en la presión sobre meridianos energéticos. Equilibra el flujo de energía vital (Ki), alivia tensiones profundas y mejora el bienestar general. Ideal para el estrés crónico y el agotamiento.",
+      "precio": "55 € / 60 min"
+    },
+    {
+      "nombre": "Masaje Terapéutico Muscular",
+      "descripcion": "Técnica manual enfocada en el alivio del dolor y la recuperación muscular. Trabaja contracturas, puntos gatillo y zonas de tensión localizada. Especialmente indicado tras esfuerzos físicos o posturas mantenidas.",
+      "precio": "50 € / 60 min"
+    },
+    {
+      "nombre": "Masaje Espalda y Cervicales",
+      "descripcion": "Sesión específica para la zona más castigada por el sedentarismo y el trabajo de oficina. Aborda tensiones cervicales, dorsales y lumbares con técnicas combinadas de shiatsu y masaje sueco.",
+      "precio": "35 € / 30 min"
+    },
+    {
+      "nombre": "Masaje Craneal Japonés (Anma)",
+      "descripcion": "Técnica tradicional japonesa aplicada en cuero cabelludo, cuello y hombros. Alivia cefaleas tensionales, mejora la circulación cerebral y produce una profunda sensación de calma y claridad mental.",
+      "precio": "40 € / 40 min"
+    },
+    {
+      "nombre": "Sesión de Relajación Profunda",
+      "descripcion": "Masaje de cuerpo completo con ritmo lento y presiones suaves, diseñado para desconectar el sistema nervioso y recuperar la calma. Ideal como ritual de autocuidado periódico.",
+      "precio": "60 € / 75 min"
+    },
+    {
+      "nombre": "Bono 5 Sesiones",
+      "descripcion": "Pack de 5 sesiones del mismo tratamiento con un ahorro especial. Recomendado para procesos de recuperación o para quienes desean incorporar la terapia como hábito de salud.",
+      "precio": "Desde 220 €"
+    }
+  ],
+  "cta": {
+    "imagen": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=1600&q=80"
+  },
+  "galeria": [
+    {
+      "url": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=1200&q=80",
+      "alt": "Ambiente de relajación Centro SHIAT-ZEN"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1200&q=80",
+      "alt": "Masaje terapéutico japonés"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1519823551278-64ac92734fb1?w=1200&q=80",
+      "alt": "Espacio zen de tratamiento"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80",
+      "alt": "Detalle de sesión shiatsu"
+    }
+  ],
+  "contacto": {
+    "telefono": "+34 600 000 000",
+    "whatsapp": "+34600000000",
+    "email": "info@shiatzen.es",
+    "direccion": "Calle Ejemplo, 00 · Aldaia, Valencia",
+    "instagram": "@shiatzen.aldaia",
+    "reservas_url": "https://simplybook.me",
+    "maps_embed": "",
+    "horario": [
+      { "dia": "Lunes", "hora": "09:00 – 20:00" },
+      { "dia": "Martes", "hora": "09:00 – 20:00" },
+      { "dia": "Miércoles", "hora": "09:00 – 20:00" },
+      { "dia": "Jueves", "hora": "09:00 – 20:00" },
+      { "dia": "Viernes", "hora": "09:00 – 19:00" },
+      { "dia": "Sábado", "hora": "10:00 – 14:00" },
+      { "dia": "Domingo", "hora": "Cerrado" }
+    ]
+  },
+  "emailjs": {
+    "public_key": "TU_PUBLIC_KEY_AQUI",
+    "service_id": "TU_SERVICE_ID_AQUI",
+    "template_id": "TU_TEMPLATE_ID_AQUI"
+  }
+}
